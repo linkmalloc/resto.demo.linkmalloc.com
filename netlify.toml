@@ -3,7 +3,7 @@
   base = "www/"
   command = "jekyll build"
   functions = "functions"
-  publish = "public"
+  publish = "../public"
 
   ## Uncomment to use this redirect for Single Page Applications like create-react-app.
   ## Not needed for static site generators.
